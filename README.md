@@ -1,7 +1,7 @@
 **Natural Systems Simulations and GML Models**
 ==============================================
 
-![GitHub Logo](https://github.com/symbols/blob/master/logos/github-icon.png)
+![GitHub Logo](https://github.com/xWhaler/natural-systems-simulations/blob/main/public/whalecats.jpg)
 
 **Welcome to [Repository Name], a collection of simulations and GML (Graphical Modeling
 Language) models that explore the complexities of natural systems.**
