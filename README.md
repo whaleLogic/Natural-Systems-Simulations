@@ -1,36 +1,24 @@
-**Natural Systems Simulations and GML Models**
+**Simulations of Natural Systems and GML Models**
 ==============================================
 
 ![GitHub Logo](https://github.com/xWhaler/natural-systems-simulations/blob/main/public/whalecats.jpg)
 
-**Welcome to [Repository Name], a collection of simulations and GML (Graphical Modeling
-Language) models that explore the complexities of natural systems.**
+**Welcome to my repo! This is an ongoing collection of simulations and GML (Graphical Modeling
+Language) models that explore the complexities of natural systems using common physics and mathematical formulas such as <em>Newtons Law of Universal Gravitation.</em>**
 
-**About**
+- Please enjoy my whale picture.  
+
+**What is this??**
 --------
 
-This repository is designed to store all my natural systems simulations and GML models,
-providing a centralized platform for:
+This repository is designed to store all my natural systems simulations and GML models in which I will expore the following: 
 
-* **Exploring Natural Systems**: Simulate complex systems, such as weather patterns, population
-dynamics, and ecosystem interactions.
+* **Natural Systems**: Simulate complex systems, such as weather patterns, bacteria growth, ecosystem interactions and population dynamics.
 * **Developing GML Models**: Create and share graphical models that illustrate the underlying
-structures and behaviors of natural systems.
+structures and behaviors of natural things like particle systems, waves, oscillations, even bacteria growth. 🩹
 
-**Features**
-------------
+## Anything can be modeled!!
 
-* **Natural System Simulations**: A collection of simulations that model real-world natural
-systems, including:
-        + Weather forecasting
-        + Ecosystem modeling
-        + Population dynamics
-        + Water cycle simulation
-* **GML Models**: A library of graphical models that represent the underlying structures and
-behaviors of natural systems, including:
-        + Phase space diagrams
-        + Network topologies
-        + Fractal patterns
 
 **Getting Started**
 -----------------
@@ -40,6 +28,9 @@ behaviors of natural systems, including:
 manager.
 3. **Explore simulations and models**: Browse through the simulation files (e.g.,
 `weather_forecast.js`) and model files (e.g., `ecosystem_model.gml`).
+### OR 
+1. Navigate to the subdirectory you want and run <code>python3 -m http.server</code>
+2. Open the index.html file in that subdirectory, e.g. 'n-body-problem' -> index.html (browser)
 
 **Contribute**
 -------------
