@@ -1,7 +1,7 @@
 **Simulations of Natural Systems and GML Models**
 ==============================================
 
-![GitHub Logo](https://github.com/xWhaler/natural-systems-simulations/blob/main/public/whalecats.jpg)
+![atom](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.creativefabrica.com%2Fwp-content%2Fuploads%2F2022%2F12%2F17%2FAtom-model-icon-Physics-symbol-Science-Graphics-52906711-1.png&f=1&nofb=1&ipt=a31f5a2069d0162708b261ea35d48303cd791a687c2dd0ffbc9b4e02f49e257b)
 
 **Welcome to my repo! This is an ongoing collection of simulations and GML (Graphical Modeling
 Language) models that explore the complexities of natural systems using common physics and mathematical formulas such as <em>Newtons Law of Universal Gravitation.</em>**
