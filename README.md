@@ -27,10 +27,3 @@ manager.
 1. Navigate to the subdirectory you want and run <code>python3 -m http.server</code>
 2. Open the index.html file in that subdirectory
 
-**Contribute**
--------------
-
-* **Submit new simulations or models**: Create a new branch, add your changes, and submit a pull
-request.
-* **Participate in discussions**: Join the discussion forum to share ideas, ask questions, and
-get feedback on your work.
